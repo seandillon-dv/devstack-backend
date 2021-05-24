@@ -1,0 +1,62 @@
+{
+  "name": "devstack",
+  "version": "0.0.1",
+  "description": "A platform to facilitate the candidate selection process for companies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo \"Error: no start script specified\" && exit 1",
+    "seed": "cd seeders && node _seeder"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnAL95/devstack.git"
+  },
+  "author": "Joao Lopes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnAL95/devstack/issues"
+  },
+  "homepage": "https://github.com/JohnAL95/devstack#readme",
+  "devDependencies": {
+    "commitizen": "^4.2.1",
+    "cz-conventional-changelog": "^3.2.0",
+    "husky": "^4.2.5",
+    "validate-commit-msg": "^2.14.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "validate-commit-msg": {
+    "types": [
+      "feat",
+      "fix",
+      "docs",
+      "style",
+      "refactor",
+      "perf",
+      "test",
+      "chore",
+      "revert"
+    ],
+    "warnOnFail": false,
+    "maxSubjectLength": 100,
+    "subjectPatternErrorMsg": "Subject must be in format 'CMS-123 - Commit message'",
+    "helpMessage": ""
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "validate-commit-msg"
+    }
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "pg": "^8.6.0",
+    "sequelize": "^6.6.2",
+    "socket.io": "^4.1.2"
+  }
+}

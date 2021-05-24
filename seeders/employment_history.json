@@ -1,0 +1,147 @@
+[
+  {
+    "developerId": 1,
+    "history": [
+      {
+        "company": "ION",
+        "title": "Software Developer",
+        "start_date": "2019-05-24T13:23:03.904Z",
+        "end_date": "2020-01-24T13:23:03.904Z",
+        "description": "Product Manager overseeing metals strategy across ION's multiple commodity trading and risk management products including Aspect, Allegro Horizon and Openlink Endur",
+        "country_id": 4
+      },
+      {
+        "company": "Brady PLC",
+        "title": "Software Developer",
+        "start_date": "2018-05-24T13:23:03.904Z",
+        "end_date": "2019-03-24T13:23:03.904Z",
+        "description": "Product Manager for commodities derivatives solutions. Responsible for delivering a new product to ensure compliance with MIFID2 regulation for major investment banks and trading companies",
+        "country_id": 5
+      },
+      {
+        "company": "Amer",
+        "title": "Software Developer",
+        "start_date": "2018-04-24T13:23:03.904Z",
+        "end_date": "2019-02-24T13:23:03.904Z",
+        "description": "I joined a 4-person development team, responsible for product maintenance. I set up a continuous integration pipeline and test automation framework. I increased the test coverage of the system by over 50 percentage points",
+        "country_id": 2
+      }
+    ]
+  },
+  {
+    "developerId": 2,
+    "history": [
+      {
+        "company": "Codeworks",
+        "title": "Full Stack Developer and Instructor",
+        "start_date": "2021-04-20T13:23:03.904Z",
+        "end_date": "2022-02-20T13:23:03.904Z",
+        "description": "Deliver lectures to students on web development - Javascript, React, NodeJs and Express Provide feedback and code reviews. Perform code demonstrations. Maintain and develop internal tools and help students to realise their potential",
+        "country_id": 2
+      },
+      {
+        "company": "Fairpoint",
+        "title": "Software Developer",
+        "start_date": "2020-09-20T13:23:03.904Z",
+        "end_date": "2021-03-20T13:23:03.904Z",
+        "description": "FairPoint is a news-aggregator that allows you read current news and track the political bias of what you’re reading",
+        "country_id": 12
+      },
+      {
+        "company": "Torrent",
+        "title": "Software Egineer",
+        "start_date": "2019-11-20T13:23:03.904Z",
+        "end_date": "2020-06-20T13:23:03.904Z",
+        "description": "Designed, developed, and deployed a full-stack mobile nutrition tracker with a team of 4 developers",
+        "country_id": 14
+      }
+    ]
+  },
+  {
+    "developerId": 3,
+    "history": [
+      {
+        "company": "Lego Land",
+        "title": "Full Stack Developer",
+        "start_date": "2021-04-20T13:23:03.904Z",
+        "end_date": "2022-02-20T13:23:03.904Z",
+        "description": "Deliver lectures to students on web development - Javascript, React, NodeJs and Express Provide feedback and code reviews. Perform code demonstrations. Maintain and develop internal tools and help students to realise their potential",
+        "country_id": 12
+      },
+      {
+        "company": "IKEA",
+        "title": "Software Developer",
+        "start_date": "2020-09-20T13:23:03.904Z",
+        "end_date": "2021-03-20T13:23:03.904Z",
+        "description": "IKEA is a news-aggregator that allows you read current news and track the political bias of what you’re reading",
+        "country_id": 4
+      },
+      {
+        "company": "Bountifull",
+        "title": "Software Egineer",
+        "start_date": "2019-11-20T13:23:03.904Z",
+        "end_date": "2020-06-20T13:23:03.904Z",
+        "description": "Designed, developed, and deployed a full-stack mobile nutrition tracker with a team of 4 developers",
+        "country_id": 13
+      }
+    ]
+  },
+  {
+    "developerId": 4,
+    "history": [
+      {
+        "company": "Codeworks",
+        "title": "Co-Founder and CEO",
+        "start_date": "2016-04-20T13:23:03.904Z",
+        "end_date": "2022-02-20T13:23:03.904Z",
+        "description": "Codeworks offers immersive courses to learn Software Engineering. Ranked as one of the best coding academies in the world, it provides remote and on-site programs",
+        "country_id": 4
+      },
+      {
+        "company": "Dev Circle Lead",
+        "title": "Software Developer",
+        "start_date": "2017-09-20T13:23:03.904Z",
+        "end_date": "2022-05-20T13:23:03.904Z",
+        "description": "In charge of starting up the Facebook Developer Circle of Barcelona. Recruited the management team and grew the circle from 0 to 700+ developers",
+        "country_id": 7
+      },
+      {
+        "company": "Good Karma Inc.",
+        "title": "Software Egineer",
+        "start_date": "2012-11-20T13:23:03.904Z",
+        "end_date": "2020-06-20T13:23:03.904Z",
+        "description": "Good Karma (goodkarma.net) is a boutique consulting studio that develops in-house projects and helps industry leaders implementing design, software engineering and product management decisions",
+        "country_id": 15
+      }
+    ]
+  },
+  {
+    "developerId": 5,
+    "history": [
+      {
+        "company": "Codeworks",
+        "title": "Full Stack Developer and Instructor",
+        "start_date": "2019-04-20T13:23:03.904Z",
+        "end_date": "2022-02-20T13:23:03.904Z",
+        "description": "Codeworks offers immersive courses to learn Software Engineering. Ranked as one of the best coding academies in the world, it provides remote and on-site programs",
+        "country_id": 16
+      },
+      {
+        "company": "Flock",
+        "title": "Front-end Developer",
+        "start_date": "2018-09-20T13:23:03.904Z",
+        "end_date": "2029-05-20T13:23:03.904Z",
+        "description": "Worked in a group of 5 developers, built the React client, integrating it with back-end using Apollo Client and GraphQL Responsible for the UI/UX design. Styled with Emotion",
+        "country_id": 17
+      },
+      {
+        "company": "KashaApp",
+        "title": "Front-end Developer",
+        "start_date": "2018-11-20T13:23:03.904Z",
+        "end_date": "2029-06-20T13:23:03.904Z",
+        "description": "Created the mobile client from the ground up, using React Native and Expo",
+        "country_id": 5
+      }
+    ]
+  }
+]

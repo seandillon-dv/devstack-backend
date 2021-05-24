@@ -1,0 +1,117 @@
+[
+  {
+    "developerId": 1,
+    "history": [
+      {
+        "institution": "University of Manchester",
+        "degree": "BSc",
+        "field": "Computer Science",
+        "start_date": "2017-05-24T13:23:03.904Z",
+        "end_date": "2020-01-24T13:23:03.904Z",
+        "description": "Computer science is the study of computers and computing as well as their theoretical and practical applications",        
+        "country_id": 33
+      },
+      {
+        "institution": "University of Barcelona",
+        "degree": "BSc",
+        "field": "Mathematics",
+        "start_date": "2018-05-24T13:23:03.904Z",
+        "end_date": "2019-03-24T13:23:03.904Z",
+        "description": "Focused on quantum mechanics field. Quantum mechanics is a fundamental theory in physics that provides a description of the physical properties of nature at the scale of atoms and subatomic particles",        
+        "country_id": 19
+      }
+    ]
+  },
+  {
+    "developerId": 2,
+    "history": [
+      {
+        "institution": "University of Barcelona",
+        "degree": "MSc",
+        "field": "Software Engineering",
+        "start_date": "2018-01-20T13:23:03.904Z",
+        "end_date": "2022-05-20T13:23:03.904Z",
+        "description": "Computer science is the study of computers and computing as well as their theoretical and practical applications",
+        "country_id": 30
+      },
+      {
+        "institution": "University of London",
+        "degree": "Bachelor's degree",
+        "field": "Physics",
+        "start_date": "2015-01-20T13:23:03.904Z",
+        "end_date": "2022-04-20T13:23:03.904Z",
+        "description": "Physics is the natural science that studies matter, its motion and behavior through space and time, and the related entities of energy and force",
+        "country_id": 30
+      }
+    ]
+  },
+  {
+    "developerId": 3,
+    "history": [
+      {
+        "institution": "University of Barcelona",
+        "degree": "Bachelor's degree",
+        "field": "Software Engineering",
+        "start_date": "2015-01-20T13:23:03.904Z",
+        "end_date": "2018-05-20T13:23:03.904Z",
+        "description": "Money and success don’t change people; they merely amplify what is already there",
+        "country_id": 18
+      },
+      {
+        "institution": "University of Prague",
+        "degree": "Bachelor's degree",
+        "field": "Mechanics",
+        "start_date": "2013-01-20T13:23:03.904Z",
+        "end_date": "2015-04-20T13:23:03.904Z",
+        "description": "Many of life’s failures are people who did not realize how close they were to success when they gave up",
+        "country_id": 20
+      }
+    ]
+  },
+  {
+    "developerId": 4,
+    "history": [
+      {
+        "institution": "University of Panama",
+        "degree": "Bachelor's degree",
+        "field": "Auto Mechanic",
+        "start_date": "2010-11-20T13:23:03.904Z",
+        "end_date": "2013-05-20T13:23:03.904Z",
+        "description": "Life is not a problem to be solved, but a reality to be experienced",
+        "country_id": 8
+      },
+      {
+        "institution": "University of Vilnius",
+        "degree": "Bachelor's degree",
+        "field": "Human resources",
+        "start_date": "2015-01-20T13:23:03.904Z",
+        "end_date": "2022-04-20T13:23:03.904Z",
+        "description": "Studies took 3 year, was really worth it",
+        "country_id": 21
+      }
+    ]
+  },
+  {
+    "developerId": 5,
+    "history": [
+      {
+        "institution": "Stanford University",
+        "degree": "Masters degree",
+        "field": "Physics",
+        "start_date": "2006-01-20T13:23:03.904Z",
+        "end_date": "2010-06-20T13:23:03.904Z",
+        "description": "The way I see it, if you want the rainbow, you gotta put up with the rain",
+        "country_id": 11
+      },
+      {
+        "institution": "University of Helsinki",
+        "degree": "Bachelor's degree",
+        "field": "Tourism and hospitality management",
+        "start_date": "2011-03-20T13:23:03.904Z",
+        "end_date": "2014-09-20T13:23:03.904Z",
+        "description": "Learned a lot about traveling and was able to implement my studies in practical use",
+        "country_id": 3
+      }
+    ]
+  }
+]

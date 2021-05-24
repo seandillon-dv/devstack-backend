@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Argentina",
+    "region": "South America"
+  },
+  {
+    "name": "Australia",
+    "region": "Oceania"
+  },
+  {
+    "name": "Austria",
+    "region": "European Union"
+  },
+  {
+    "name": "Belgium",
+    "region": "European Union"
+  },
+  {
+    "name": "Brazil",
+    "region": "South America"
+  },
+  {
+    "name": "Canada",
+    "region": "North America"
+  },
+  {
+    "name": "China",
+    "region": "Asia"
+  },
+  {
+    "name": "Colombia",
+    "region": "South America"
+  },
+  {
+    "name": "Croatia",
+    "region": "European Union"
+  },
+  {
+    "name": "Cyprus",
+    "region": "European Union"
+  },
+  {
+    "name": "Denmark",
+    "region": "European Union"
+  },
+  {
+    "name": "Finland",
+    "region": "Europe"
+  },
+  {
+    "name": "France",
+    "region": "European Union"
+  },
+  {
+    "name": "Germany",
+    "region": "European Union"
+  },
+  {
+    "name": "Greece",
+    "region": "European Union"
+  },
+  {
+    "name": "India",
+    "region": "Asia"
+  },
+  {
+    "name": "Israel",
+    "region": "Asia"
+  },
+  {
+    "name": "Italy",
+    "region": "European Union"
+  },
+  {
+    "name": "Japan",
+    "region": "Asia"
+  },
+  {
+    "name": "Latvia",
+    "region": "European Union"
+  },
+  {
+    "name": "Lithuania",
+    "region": "European Union"
+  },
+  {
+    "name": "Netherlands",
+    "region": "European Union"
+  },
+  {
+    "name": "Paraguay",
+    "region": "South America"
+  },
+  {
+    "name": "Poland",
+    "region": "European Union"
+  },
+  {
+    "name": "Portugal",
+    "region": "European Union"
+  },
+  {
+    "name": "Russia",
+    "region": "Asia"
+  },
+  {
+    "name": "Slovakia",
+    "region": "European Union"
+  },
+  {
+    "name": "Slovenia",
+    "region": "European Union"
+  },
+  {
+    "name": "South Korea",
+    "region": "Asia"
+  },
+  {
+    "name": "Spain",
+    "region": "European Union"
+  },
+  {
+    "name": "Sweden",
+    "region": "European Union"
+  },
+  {
+    "name": "United Kingdom",
+    "region": "Europe"
+  },
+  {
+    "name": "United States",
+    "region": "North America"
+  },
+  {
+    "name": "Vietnam",
+    "region": "Asia"
+  }
+]

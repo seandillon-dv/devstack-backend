@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Codeworks",
+    "photo_path": "https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/330/original/codeworks-logo.png"
+  },
+  {
+    "name": "Facebook",
+    "photo_path": "https://hubpng.com/es/wp-content/uploads/2020/07/1594178838_Facebook-logo-png-hd.png"
+  },
+  {
+    "name": "Google",
+    "photo_path": "https://i.pinimg.com/originals/46/c0/f7/46c0f7ba7e750939590904afcdaa7851.png"
+  },
+  {
+    "name": "SwellByte",
+    "photo_path": "https://i.imgur.com/eUS0Sgc.png"
+  }
+]
